@@ -15,6 +15,8 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+.idea
 .idea/
-
-git rm --cached .idea/workspace.xml
+*.iml
+out
+gen
