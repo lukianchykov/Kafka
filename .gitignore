@@ -1,3 +1,7 @@
+.idea /
+.idea/
+.idea
+
 ### Go template
 # Binaries for programs and plugins
 *.exe
@@ -14,9 +18,3 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-
-.idea
-.idea/
-*.iml
-out
-gen
